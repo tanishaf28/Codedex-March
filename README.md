@@ -17,6 +17,14 @@ Goal: **build consistently, learn something new, and code snippets daily.**
 | Day 6 | Sleep Debt + Daylight Savings | `dst.py` |
 | Day 7 | Workforce Diversity Trend Analysis | `analyze_workforce_trends.py` |
 | Day 8 | Sputnik 9 Descent Time Calculator | `sputnik.py` |
+| Day 9 | Unique Words in Transcript | `ring.py` |
+| Day 10 | Hitchhiker’s Components Problem | `hitchhiker.py` |
+| Day 11 | URL Validator | `www.py` |
+| Day 12 | Palindrome Checker | `palindrome.py` |
+| Day 13 | Pie Distribution Calculator | `pi.py` |
+| Day 14 | Caesar Cipher Decoder | `caeser.py` |
+| Day 15 | Oscars Prediction Accuracy | `oscar.py` |
+| Day 16 | Green River Drift | `Patricksday.py` |
 
 ---
 
@@ -46,6 +54,6 @@ Many of the Codédex challenges are inspired by **real events, science problems,
 
 ## 📌 Progress
 
-Current streak: **8 days and counting**
+Current streak: **16 days and counting**
 
 More challenges coming soon...
